@@ -33,7 +33,7 @@ swap(a,b)
 
 ## OUTPUT:
 
-![output](output.jpg)
+![output](/output.jpg)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
