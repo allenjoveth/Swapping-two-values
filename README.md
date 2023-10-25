@@ -18,7 +18,10 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+<<<<<<< HEAD
 ```
+=======
+>>>>>>> ecee71a9d8f63ef4b65eb2f8f0c80610d71cfca2
 #Program to swap two values.
 #Developed by: ALLEN JOVETH P
 #RegisterNumber:23009582
