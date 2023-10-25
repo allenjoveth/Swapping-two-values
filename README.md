@@ -18,10 +18,10 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
-#Program to swap two values.
+```#Program to swap two values.
 #Developed by: ALLEN JOVETH P
 #RegisterNumber:23009582
+
 def swap(a,b):
     c=a
     a=b
@@ -29,7 +29,8 @@ def swap(a,b):
     print("Swapped values are: {} {}".format(a,b))
 a=float(input())
 b=float(input())
-swap(a,b)
+swap(a,b) 
+```
 
 ## OUTPUT:
 
