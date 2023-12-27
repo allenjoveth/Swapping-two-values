@@ -34,8 +34,8 @@ swap(a,b)
 ```
 
 ## OUTPUT:
+![image](https://github.com/allenjoveth/Swapping-two-values/assets/139422287/95ed2624-094f-417f-8a8d-9f7c3b0e0ccf)
 
-![output](./output.jpg)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
